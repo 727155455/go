@@ -1,1 +1,1 @@
-module github.com/727155455/go_mod
+module github.com/727155455/go_mod/v2
